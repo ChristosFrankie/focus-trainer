@@ -1,3 +1,5 @@
+![Focus Trainer Banner](./focus_trainer_banner.png)
+
 # 🎯 Focus Trainer Game
 
 **Focus Trainer** is a web-based cognitive training game built with pure HTML, CSS, and JavaScript.  
